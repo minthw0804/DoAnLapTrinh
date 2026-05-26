@@ -111,7 +111,9 @@ public:
     void thongKe() {} // HIEN
     void themSach() {} // HIEN
     void xoaSach() {} // HIEN
-    void timKiemMa() {} // THU
+    void timKiemMa() {
+        
+    } // THU
     void timKiemTen() {} // THU
     void timKiemNXB() {} // THU
     void Menu() {} // THU
